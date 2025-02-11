@@ -1,1 +1,1 @@
-# KRam0n-vizsgaprojekt
+# Vizsgaremek - Borbély Attila, Hatta Bálint Dániel, Kárpáti Ramón
