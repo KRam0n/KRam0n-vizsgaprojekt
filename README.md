@@ -5,3 +5,5 @@
              az ügyfelek, akik már rendeltek a megadott parfümből, tudjon róla véleményt írni. Ezen kívül hozzáadtam a regisztráció és a bejelentkezés felületet is, ennek segítségével lehet megnézni a véleményeket egy parfümről, illetve így lehet róla véleményt írni. A fiók beállításokban a felhasználó megtudja tekinteni az eddigi leadott rendeléseit. 
 
 Az admin panel kapott egy új funkciót, amivel lehet törölni a regisztrált felhasználókat.
+
+Hozzáadtam a termékek oldalra a szűrési lehetőséget, így lehet szűrni férfi-női-unisex termékek közül, és a megjelenés sorrendjét is ár alapján belehet állítani
