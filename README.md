@@ -14,3 +14,5 @@ Hozzáadtam a termékek oldalra a szűrési lehetőséget, így lehet szűrni f�
 Hozzáadtam egy AI Chatbotot, ami segít a vásárlóknak, ha bármiben elakadnának, vagy csak egy egyszerű kérdésük lenne.
 
 2025.03.21 - (Ramón)Ezkészítettem az asztali alkalmazást a veboldal alapján a nodejs segítségével. (A file 330MB ezért a github nem engedi feltölteni, drive linken van [csatolva](https://drive.google.com/drive/folders/1koO2Yrev6Lhq6tD_sigUXViTR1q106k2?usp=sharing))
+
+2025.03.25 - (Bálint) Hozzáadtam a Kapcsolat oldalt, az elérhetőségekkel, és egy űrlappal, ami az escentials@gmail.com email-címre küldi a felhasználó által megadott üzenetet. Hozzáadtam egy google térképet. Az add_product oldalt egy főoldalra irányuló gombbal bővítettem, mert hiányos volt. Illetve, egy új designal jelenik meg az oldal, ha nincs bejelentkezve a felhasználó, vagy nincs admin jogosultsága, akkor egy elfogadhatóbb oldal jelenik meg, hibaüzenettel, hogy nincs admin jogosultsága, illetve egy gomb, ami a főoldalra irányít. 
